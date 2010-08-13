@@ -1,0 +1,24 @@
+#+TITLE: China Jin-Ping Deep Underground Laboratory
+#+OPTIONS: toc:nil
+
+* Introduction
+
+* Projects
+  + CDEX -- China Dark matter EXperiment
+  + DAQ4CJPL -- the Data AcQuisition system for CJPL
+    - http://cjpl.github.com/daq
+
+* Contacts
+
+** The public service contact
+   + E-mail -- CJPL.pub@gmail.com
+   + Public profile -- https://www.google.com/profiles/cjpl.pub
+   + Projects manage on Zoho[fn:1] -- https://projects.zoho.com/portal/cjpl
+   + Public account on Zoho -- cjplpub
+
+[fn:1] https://www.zoho.com/
+
+#+BEGIN_HTML
+<iframe src="http://calendar.zoho.com/embed/d7891e968b50b89b017504801c5869db99d92b528d0176fd067341897f771fb08cabcad57cbbb1a0?title=CJPL%20Public&type=6&l=en&tz=Asia/Shanghai&sh=[1,1]&c=0" width="700" height="270" frameborder="0" scrolling="no"></iframe>
+#+END_HTML
+
